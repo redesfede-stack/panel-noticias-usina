@@ -1,0 +1,5 @@
+{
+  "name": "Panel de Control de Noticias",
+  "description": "Un sistema integral para la gestión, análisis de sentimiento y monitoreo de noticias gubernamentales. Permite a los usuarios agregar, editar, filtrar y visualizar noticias, con un indicador de sentimiento general impulsado por IA.",
+  "requestFramePermissions": []
+}
